@@ -1,0 +1,197 @@
+country_en,country_ru,iso_alpha2,iso_alpha3,iso_numeric,region
+Afghanistan,Афганистан,AF,AFG,004,Asia
+Albania,Албания,AL,ALB,008,Europe
+Algeria,Алжир,DZ,DZA,012,Africa
+Andorra,Андорра,AD,AND,020,Europe
+Angola,Ангола,AO,AGO,024,Africa
+Antigua and Barbuda,Антигуа и Барбуда,AG,ATG,028,Americas
+Argentina,Аргентина,AR,ARG,032,Americas
+Armenia,Армения,AM,ARM,051,Asia
+Australia,Австралия,AU,AUS,036,Oceania
+Austria,Австрия,AT,AUT,040,Europe
+Azerbaijan,Азербайджан,AZ,AZE,031,Asia
+Bahamas,Багамские Острова,BS,BHS,044,Americas
+Bahrain,Бахрейн,BH,BHR,048,Asia
+Bangladesh,Бангладеш,BD,BGD,050,Asia
+Barbados,Барбадос,BB,BRB,052,Americas
+Belarus,Беларусь,BY,BLR,112,Europe
+Belgium,Бельгия,BE,BEL,056,Europe
+Belize,Белиз,BZ,BLZ,084,Americas
+Benin,Бенин,BJ,BEN,204,Africa
+Bhutan,Бутан,BT,BTN,064,Asia
+Bolivia,Боливия,BO,BOL,068,Americas
+Bosnia and Herzegovina,Босния и Герцеговина,BA,BIH,070,Europe
+Botswana,Ботсвана,BW,BWA,072,Africa
+Brazil,Бразилия,BR,BRA,076,Americas
+Brunei,Бруней,BN,BRN,096,Asia
+Bulgaria,Болгария,BG,BGR,100,Europe
+Burkina Faso,Буркина-Фасо,BF,BFA,854,Africa
+Burundi,Бурунди,BI,BDI,108,Africa
+Cabo Verde,Кабо-Верде,CV,CPV,132,Africa
+Cambodia,Камбоджа,KH,KHM,116,Asia
+Cameroon,Камерун,CM,CMR,120,Africa
+Canada,Канада,CA,CAN,124,Americas
+Central African Republic,ЦАР,CF,CAF,140,Africa
+Chad,Чад,TD,TCD,148,Africa
+Chile,Чили,CL,CHL,152,Americas
+China,Китай,CN,CHN,156,Asia
+Colombia,Колумбия,CO,COL,170,Americas
+Comoros,Коморы,KM,COM,174,Africa
+Congo,Конго,CG,COG,178,Africa
+Democratic Republic of the Congo,ДР Конго,CD,COD,180,Africa
+Costa Rica,Коста-Рика,CR,CRI,188,Americas
+Croatia,Хорватия,HR,HRV,191,Europe
+Cuba,Куба,CU,CUB,192,Americas
+Cyprus,Кипр,CY,CYP,196,Europe
+Czech Republic,Чехия,CZ,CZE,203,Europe
+Denmark,Дания,DK,DNK,208,Europe
+Djibouti,Джибути,DJ,DJI,262,Africa
+Dominica,Доминика,DM,DMA,212,Americas
+Dominican Republic,Доминиканская Республика,DO,DOM,214,Americas
+Ecuador,Эквадор,EC,ECU,218,Americas
+Egypt,Египет,EG,EGY,818,Africa
+El Salvador,Сальвадор,SV,SLV,222,Americas
+Equatorial Guinea,Экваториальная Гвинея,GQ,GNQ,226,Africa
+Eritrea,Эритрея,ER,ERI,232,Africa
+Estonia,Эстония,EE,EST,233,Europe
+Eswatini,Эсватини,SZ,SWZ,748,Africa
+Ethiopia,Эфиопия,ET,ETH,231,Africa
+Fiji,Фиджи,FJ,FJI,242,Oceania
+Finland,Финляндия,FI,FIN,246,Europe
+France,Франция,FR,FRA,250,Europe
+Gabon,Габон,GA,GAB,266,Africa
+Gambia,Гамбия,GM,GMB,270,Africa
+Georgia,Грузия,GE,GEO,268,Asia
+Germany,Германия,DE,DEU,276,Europe
+Ghana,Гана,GH,GHA,288,Africa
+Greece,Греция,GR,GRC,300,Europe
+Grenada,Гренада,GD,GRD,308,Americas
+Guatemala,Гватемала,GT,GTM,320,Americas
+Guinea,Гвинея,GN,GIN,324,Africa
+Guinea-Bissau,Гвинея-Бисау,GW,GNB,624,Africa
+Guyana,Гайана,GY,GUY,328,Americas
+Haiti,Гаити,HT,HTI,332,Americas
+Honduras,Гондурас,HN,HND,340,Americas
+Hungary,Венгрия,HU,HUN,348,Europe
+Iceland,Исландия,IS,ISL,352,Europe
+India,Индия,IN,IND,356,Asia
+Indonesia,Индонезия,ID,IDN,360,Asia
+Iran,Иран,IR,IRN,364,Asia
+Iraq,Ирак,IQ,IRQ,368,Asia
+Ireland,Ирландия,IE,IRL,372,Europe
+Israel,Израиль,IL,ISR,376,Asia
+Italy,Италия,IT,ITA,380,Europe
+Ivory Coast,Кот-д'Ивуар,CI,CIV,384,Africa
+Jamaica,Ямайка,JM,JAM,388,Americas
+Japan,Япония,JP,JPN,392,Asia
+Jordan,Иордания,JO,JOR,400,Asia
+Kazakhstan,Казахстан,KZ,KAZ,398,Asia
+Kenya,Кения,KE,KEN,404,Africa
+Kiribati,Кирибати,KI,KIR,296,Oceania
+Kuwait,Кувейт,KW,KWT,414,Asia
+Kyrgyzstan,Кыргызстан,KG,KGZ,417,Asia
+Laos,Лаос,LA,LAO,418,Asia
+Latvia,Латвия,LV,LVA,428,Europe
+Lebanon,Ливан,LB,LBN,422,Asia
+Lesotho,Лесото,LS,LSO,426,Africa
+Liberia,Либерия,LR,LBR,430,Africa
+Libya,Ливия,LY,LBY,434,Africa
+Liechtenstein,Лихтенштейн,LI,LIE,438,Europe
+Lithuania,Литва,LT,LTU,440,Europe
+Luxembourg,Люксембург,LU,LUX,442,Europe
+Madagascar,Мадагаскар,MG,MDG,450,Africa
+Malawi,Малави,MW,MWI,454,Africa
+Malaysia,Малайзия,MY,MYS,458,Asia
+Maldives,Мальдивы,MV,MDV,462,Asia
+Mali,Мали,ML,MLI,466,Africa
+Malta,Мальта,MT,MLT,470,Europe
+Marshall Islands,Маршалловы Острова,MH,MHL,584,Oceania
+Mauritania,Мавритания,MR,MRT,478,Africa
+Mauritius,Маврикий,MU,MUS,480,Africa
+Mexico,Мексика,MX,MEX,484,Americas
+Micronesia,Микронезия,FM,FSM,583,Oceania
+Moldova,Молдова,MD,MDA,498,Europe
+Monaco,Монако,MC,MCO,492,Europe
+Mongolia,Монголия,MN,MNG,496,Asia
+Montenegro,Черногория,ME,MNE,499,Europe
+Morocco,Марокко,MA,MAR,504,Africa
+Mozambique,Мозамбик,MZ,MOZ,508,Africa
+Myanmar,Мьянма,MM,MMR,104,Asia
+Namibia,Намибия,NA,NAM,516,Africa
+Nauru,Науру,NR,NRU,520,Oceania
+Nepal,Непал,NP,NPL,524,Asia
+Netherlands,Нидерланды,NL,NLD,528,Europe
+New Zealand,Новая Зеландия,NZ,NZL,554,Oceania
+Nicaragua,Никарагуа,NI,NIC,558,Americas
+Niger,Нигер,NE,NER,562,Africa
+Nigeria,Нигерия,NG,NGA,566,Africa
+North Korea,КНДР,KP,PRK,408,Asia
+North Macedonia,Северная Македония,MK,MKD,807,Europe
+Norway,Норвегия,NO,NOR,578,Europe
+Oman,Оман,OM,OMN,512,Asia
+Pakistan,Пакистан,PK,PAK,586,Asia
+Palau,Палау,PW,PLW,585,Oceania
+Palestine,Палестина,PS,PSE,275,Asia
+Panama,Панама,PA,PAN,591,Americas
+Papua New Guinea,Папуа-Новая Гвинея,PG,PNG,598,Oceania
+Paraguay,Парагвай,PY,PRY,600,Americas
+Peru,Перу,PE,PER,604,Americas
+Philippines,Филиппины,PH,PHL,608,Asia
+Poland,Польша,PL,POL,616,Europe
+Portugal,Португалия,PT,PRT,620,Europe
+Qatar,Катар,QA,QAT,634,Asia
+Romania,Румыния,RO,ROU,642,Europe
+Russia,Россия,RU,RUS,643,Europe
+Rwanda,Руанда,RW,RWA,646,Africa
+Saint Kitts and Nevis,Сент-Китс и Невис,KN,KNA,659,Americas
+Saint Lucia,Сент-Люсия,LC,LCA,662,Americas
+Saint Vincent and the Grenadines,Сент-Винсент и Гренадины,VC,VCT,670,Americas
+Samoa,Самоа,WS,WSM,882,Oceania
+San Marino,Сан-Марино,SM,SMR,674,Europe
+Sao Tome and Principe,Сан-Томе и Принсипи,ST,STP,678,Africa
+Saudi Arabia,Саудовская Аравия,SA,SAU,682,Asia
+Senegal,Сенегал,SN,SEN,686,Africa
+Serbia,Сербия,RS,SRB,688,Europe
+Seychelles,Сейшелы,SC,SYC,690,Africa
+Sierra Leone,Сьерра-Леоне,SL,SLE,694,Africa
+Singapore,Сингапур,SG,SGP,702,Asia
+Slovakia,Словакия,SK,SVK,703,Europe
+Slovenia,Словения,SI,SVN,705,Europe
+Solomon Islands,Соломоновы Острова,SB,SLB,090,Oceania
+Somalia,Сомали,SO,SOM,706,Africa
+South Africa,ЮАР,ZA,ZAF,710,Africa
+South Korea,Южная Корея,KR,KOR,410,Asia
+South Sudan,Южный Судан,SS,SSD,728,Africa
+Spain,Испания,ES,ESP,724,Europe
+Sri Lanka,Шри-Ланка,LK,LKA,144,Asia
+Sudan,Судан,SD,SDN,729,Africa
+Suriname,Суринам,SR,SUR,740,Americas
+Sweden,Швеция,SE,SWE,752,Europe
+Switzerland,Швейцария,CH,CHE,756,Europe
+Syria,Сирия,SY,SYR,760,Asia
+Taiwan,Тайвань,TW,TWN,158,Asia
+Tajikistan,Таджикистан,TJ,TJK,762,Asia
+Tanzania,Танзания,TZ,TZA,834,Africa
+Thailand,Таиланд,TH,THA,764,Asia
+Timor-Leste,Восточный Тимор,TL,TLS,626,Asia
+Togo,Того,TG,TGO,768,Africa
+Tonga,Тонга,TO,TON,776,Oceania
+Trinidad and Tobago,Тринидад и Тобаго,TT,TTO,780,Americas
+Tunisia,Тунис,TN,TUN,788,Africa
+Turkey,Турция,TR,TUR,792,Asia
+Turkmenistan,Туркменистан,TM,TKM,795,Asia
+Tuvalu,Тувалу,TV,TUV,798,Oceania
+Uganda,Уганда,UG,UGA,800,Africa
+Ukraine,Украина,UA,UKR,804,Europe
+United Arab Emirates,ОАЭ,AE,ARE,784,Asia
+United Kingdom,Великобритания,GB,GBR,826,Europe
+United States,США,US,USA,840,Americas
+Uruguay,Уругвай,UY,URY,858,Americas
+Uzbekistan,Узбекистан,UZ,UZB,860,Asia
+Vanuatu,Вануату,VU,VUT,548,Oceania
+Vatican City,Ватикан,VA,VAT,336,Europe
+Venezuela,Венесуэла,VE,VEN,862,Americas
+Vietnam,Вьетнам,VN,VNM,704,Asia
+Yemen,Йемен,YE,YEM,887,Asia
+Zambia,Замбия,ZM,ZMB,894,Africa
+Zimbabwe,Зимбабве,ZW,ZWE,716,Africa
